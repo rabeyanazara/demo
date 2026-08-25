@@ -1,7 +1,7 @@
 def calculate_average(numbers):
     if not numbers:
         return 0
-    return sum(numbers) / len(numbers)
+    return sum(number) / len(number)
 
 
 def login(password):
